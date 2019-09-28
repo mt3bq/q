@@ -1,0 +1,16 @@
+*{
+
+
+	margin: 0;
+	padding: 0;
+}
+
+
+
+#nav_top{
+
+
+    float: right;
+    font-size: 30px;
+	background-color: blue;
+}
